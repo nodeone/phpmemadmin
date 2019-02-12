@@ -12,7 +12,7 @@
   "config":{
         "sort-packages": true,
         "platform": {
-            "php": "7.2"
+            "php": "5.6"
         }
   },
   "require": {
